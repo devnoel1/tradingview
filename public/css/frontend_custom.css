@@ -1,0 +1,202 @@
+a.menu-item{
+    color: #ffffff !important;
+}
+.searchsymbol {
+    /*padding-top: 20px;*/
+    /*padding-bottom: 20px;*/
+    /*font-size: 14px;*/
+    cursor: pointer;
+}
+.wallet-balance {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+
+}
+.wallet-balance h2{
+    padding-left: 5px;
+    font-weight: bold;
+}
+.symbolbuy-tab, .symbolsearch-tab{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.symbol-search-fav, .symbol-search-eye{
+    cursor: pointer;
+}
+.max-button{
+    cursor: pointer;
+    font-weight: bold;
+}
+.order-formfield{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.order-formfield div {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.order-formfield label{
+    font-size: 12px;
+}
+.order-formfield input{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.background-overlayer{
+    background-color: rgba(0,0,0,0.4);
+    position: relative;
+    width: 100vw;
+    height: 1000vh;
+    z-index: 0;
+    top: -120px;
+    left: -30px;
+}
+.symbolbuy-second-tab{
+}
+.symbolbuy h2{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.wallet-item{
+    cursor: pointer;
+}
+.wallet-tab{
+    cursor: pointer;
+}
+.wallet-set-active{
+    cursor: pointer;
+}
+.wallet.default{
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
+.submenu{
+    left: 0;
+}
+/*.wallet-balance-info-header div{*/
+/*    padding-top: 2px;*/
+/*    padding-bottom: 2px;*/
+/*}*/
+/*.walllet-balance-value-value {*/
+/*    font-weight: bold;*/
+/*}*/
+/*.wallet-balance-info-market-status div, .wallet-balance-info-value div{*/
+/*    padding-top: 2px;*/
+/*    padding-bottom: 2px;*/
+/*}*/
+/*.wallet-balance-info-header div, .wallet-balance-info-market-status div, .wallet-balance-info-value div{*/
+/*    padding-left: 5px;*/
+/*    padding-right: 5px;*/
+/*    font-size: 12px;*/
+/*}*/
+/*.wallet-list-item{*/
+/*    padding-top: 5px;*/
+/*    padding-bottom: 5px;*/
+/*    padding-left: 5px;*/
+/*    padding-right: 5px;*/
+/*    font-size: 14px;*/
+/*}*/
+/*.wallet-list-item-record{*/
+/*    padding-top: 10px;*/
+/*    padding-bottom: 10px;*/
+/*}*/
+/*.wallet-view-item div,  .order-view-item div{*/
+/*    font-size: 14px;*/
+/*    padding-top: 5px;*/
+/*    padding-bottom: 5px;*/
+/*}*/
+/*.wallet-view-menu-item, .order-view-menu-item{*/
+/*    cursor: pointer;*/
+/*    font-weight: bold;*/
+/*    font-size: 12px;*/
+/*}*/
+/*.wallet-view-header div, .wallet-view-header td, .order-view-header div{*/
+/*    font-size: 12px;*/
+/*    font-weight: bold;*/
+/*    padding: 5px;*/
+/*}*/
+/*.wallet-view-record div, .wallet-view-record td, .order-view-record div{*/
+/*    font-size: 12px;*/
+/*    padding: 5px;*/
+/*}*/
+input.symbolbuy-form{
+    width: 130px !important;
+    height: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.leverage-field{
+}
+.slider{
+    width: 100%;
+}
+.order-total-top{
+    padding-top: 10px;
+    margin-top: 5px;
+}
+.order-total-field{
+    font-size: 12px;
+    white-space: nowrap;
+}
+/* .order-button div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+} */
+.order-button {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.open-orders{
+    font-size: 12px;
+}
+.open-orders h2{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+.update-order-status-button{
+    float: right;
+    margin-right: 5px;
+}
+.search-symbol-row{
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.symbol-search-desc{
+    padding-left: 5px;
+}
+.symbol-search-select{
+    padding-top: 2px;
+    font-size: 12px;
+}
+.authentication-wrapper{
+    /* IF BACKAGROUND IMAGE NEEDED */
+}
+button.auth-button {
+    background-color: #FFC62d;
+}
+h1.auth-header {
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    /*border-bottom: 1px solid #001e41;*/
+    margin-bottom: 20px;
+}
+img.auth-logo{
+    /*position: absolute;*/
+    /*top: 5px;*/
+    /*left: 5px;*/
+}
